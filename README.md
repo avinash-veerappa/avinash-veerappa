@@ -55,18 +55,12 @@
 
 ### Featured Projects
 
-<a href="https://github.com/avinash-veerappa/scAED">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avinash-veerappa&repo=scAED&theme=tokyonight" />
-</a>
-<a href="https://github.com/avinash-veerappa/LNCRNA-framework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avinash-veerappa&repo=LNCRNA-framework&theme=tokyonight" />
-</a>
-<a href="https://github.com/avinash-veerappa/scATACseq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avinash-veerappa&repo=scATACseq&theme=tokyonight" />
-</a>
-<a href="https://github.com/avinash-veerappa/RNA-fusion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avinash-veerappa&repo=RNA-fusion&theme=tokyonight" />
-</a>
+| Repository | Description | Language |
+|:-----------|:------------|:---------|
+| [**RNA-fusion**](https://github.com/avinash-veerappa/RNA-fusion) | Multi-caller RNA fusion detection & concordance pipeline (Arriba, STAR-Fusion, FusionInspector, ChimeRScope) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white) |
+| [**scAED**](https://github.com/avinash-veerappa/scAED) | Single-cell analysis and exploration toolkit | ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white) |
+| [**LNCRNA-framework**](https://github.com/avinash-veerappa/LNCRNA-framework) | Framework for long non-coding RNA analysis | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**scATACseq**](https://github.com/avinash-veerappa/scATACseq) | Single-cell ATAC-seq analysis workflows | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
 ---
 
@@ -74,8 +68,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=avinash-veerappa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-veerappa&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avinash-veerappa&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avinash-veerappa&theme=tokyonight"/>
 
 </div>
 
