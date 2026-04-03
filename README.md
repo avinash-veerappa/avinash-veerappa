@@ -61,6 +61,7 @@
 | [**scAED**](https://github.com/avinash-veerappa/scAED) | Single-cell analysis and exploration toolkit | ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white) |
 | [**LNCRNA-framework**](https://github.com/avinash-veerappa/LNCRNA-framework) | Framework for long non-coding RNA analysis | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**scATACseq**](https://github.com/avinash-veerappa/scATACseq) | Single-cell ATAC-seq analysis workflows | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [**PGCC-Differential-Expression-Pipeline**](https://github.com/avinash-veerappa/PGCC-Differential-Expression-Pipeline) | Multi-method DE pipeline for Polyploid Giant Cancer Cells (DESeq2, edgeR, 27-scenario ploidy grid) | ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) |
 
 ---
 
