@@ -2,7 +2,7 @@
 
 # Hi there, I'm Avinash Veerappa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### Bioinformatics Researcher | Computational Genomics | Data Science
+### Genetics | Bioinformatics | Computational Genomics | Data Science | AI
 
 [![GitHub followers](https://img.shields.io/github/followers/avinash-veerappa?logo=GitHub&style=for-the-badge)](https://github.com/avinash-veerappa)
 [![GitHub Stars](https://img.shields.io/github/stars/avinash-veerappa?logo=github&style=for-the-badge)](https://github.com/avinash-veerappa)
@@ -13,10 +13,11 @@
 
 ### About Me
 
-- Passionate about leveraging computational methods to unravel the complexities of genomics
-- Working on **single-cell genomics**, **long non-coding RNA analysis**, and **epigenomics**
-- Currently exploring advanced frameworks for scATAC-seq and scRNA-seq data analysis
-- Open to collaborations on bioinformatics tools and pipelines
+- Working at the intersection of **genetics**, **bioinformatics**, **computational genomics**, **data science**, and **AI**
+- Building pipelines for **single-cell genomics**, **RNA fusion detection**, **long non-coding RNA analysis**, and **epigenomics**
+- Applying **machine learning and deep learning** to decode complex biological patterns from high-throughput sequencing data
+- Bridging the gap between wet-lab genomics and computational intelligence
+- Open to collaborations on AI-driven bioinformatics tools and genomics research
 
 ---
 
@@ -35,11 +36,13 @@
 ![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?style=for-the-badge&logo=nextflow&logoColor=white)
 ![Snakemake](https://img.shields.io/badge/Snakemake-568A2E?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
 
-#### Data Science & ML
+#### Data Science & AI/ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 #### Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -60,6 +63,9 @@
 </a>
 <a href="https://github.com/avinash-veerappa/scATACseq">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avinash-veerappa&repo=scATACseq&theme=tokyonight" />
+</a>
+<a href="https://github.com/avinash-veerappa/RNA-fusion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avinash-veerappa&repo=RNA-fusion&theme=tokyonight" />
 </a>
 
 ---
